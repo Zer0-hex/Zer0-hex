@@ -1,23 +1,8 @@
-- 👋 I’m Zer0-hex,一个想Pwn的🥬🐓er.
-- 👀 IoT毕业，Web安全入🚪失败.
-- 🌱 🦞🐓er扫描，🦞🐓er Pwn.
-- 💞️ 沉迷于🕹️无法自拔.
-- 😄 学习残废，不能停.
-- 💬 ✉️从不会回.
-- 📫 
+- I'm Zer0-hex, a simple 🥬🐓.
+
 
 <!--
-**Zer0-hex/Zer0-hex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✨🔭🌱👯🤔💬📫😄⚡📫💬✉️🕹️💞️🦞🥬🐓👀🚪👋
 -->
 
 
