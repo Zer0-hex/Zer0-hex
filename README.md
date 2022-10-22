@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/gitHub-Zer0\-hex" />
+<img src="https://img.shields.io/badge/gitHub-Zer0%2dhex" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zer0-hex&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
