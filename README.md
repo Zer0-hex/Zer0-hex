@@ -26,12 +26,14 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
 
-
-<p align = "center">
-  <img src = "https://github-profile-trophy.vercel.app/?username=zer0-hex&theme=monokai">
-  <img src = "https://github-readme-stats.vercel.app/api?username=zer0-hex&show_icons=true&theme=aura&line_height=34">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&theme=radical&line_height=32">
+<p align="center">
+  <img src = "https://github-profile-trophy.vercel.app/?username=zer0-hex&theme=monokai" >
 </p>
+
+<a align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zer0-hex&show_icons=true&theme=aura&line_height=32" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&theme=radical&line_height=32" >
+</a>
 
 
 
