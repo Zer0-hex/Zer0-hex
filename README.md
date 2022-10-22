@@ -27,14 +27,10 @@
 </p>
 
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zer0-hex&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align = "center">
   <img src = "https://github-profile-trophy.vercel.app/?username=zer0-hex&theme=monokai">
   <img src = "https://github-readme-stats.vercel.app/api?username=zer0-hex&show_icons=true&theme=aura">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&theme=radical&line_height=32">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&theme=radical">
 </p>
 
 
