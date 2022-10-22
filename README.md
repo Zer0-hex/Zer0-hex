@@ -1,10 +1,5 @@
 <img src="https://img.shields.io/badge/Github-Zer0--hex-brightgreen" />
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=zer0-hex&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&theme=radical">
-</p>
-
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -16,7 +11,6 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-
 
 <p align="center">
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
@@ -39,8 +33,8 @@
 
 <p align = "center">
   <img src = "https://github-profile-trophy.vercel.app/?username=zer0-hex&theme=monokai">
-  <img src = "https://github-readme-stats.vercel.app/api?username=zer0-hex&show_icons=true&theme=aura&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=zer0-hex&show_icons=true&theme=aura">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&theme=radical&line_height=32">
 </p>
 
 
