@@ -31,18 +31,13 @@
 </p>
 
 <p align="center">
-  <img height=256 src="https://github-readme-stats.vercel.app/api?username=zer0-hex&show_icons=true&theme=aura" >
-  <img height=256 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&theme=radical" >
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=zer0-hex&show_icons=true&theme=aura" >
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&theme=radical" >
 </p>
 
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=zer0-hex&show_icons=true&theme=)
-
-
-![NNZ](https://github-readme-stats.vercel.app/api/pin/?username=zer0-hex&repo=nnz&theme=buefy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zer0-hex&repo=nnz&theme=buefy" >
+</p>
 
 ![activity graph](https://activity-graph.herokuapp.com/graph?username=zer0-hex&theme=dracula)
 
