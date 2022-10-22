@@ -31,8 +31,8 @@
 </p>
 
 <p align="center">
-  <img height=128 src="https://github-readme-stats.vercel.app/api?username=zer0-hex&show_icons=true&theme=aura" >
-  <img height=128 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&theme=radical" >
+  <img height=256 src="https://github-readme-stats.vercel.app/api?username=zer0-hex&show_icons=true&theme=aura" >
+  <img height=256 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&theme=radical" >
 </p>
 
 
