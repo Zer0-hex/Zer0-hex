@@ -33,7 +33,7 @@ Reach me: Zer0-hex@outlook.com
 
 
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zer0-hex&repo=nnz&theme=buefy" >
 </p>
 
