@@ -39,7 +39,14 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zer0-hex&repo=nnz&theme=buefy" >
 </p>
 
-![activity graph](https://activity-graph.herokuapp.com/graph?username=zer0-hex&theme=dracula)
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zer0-hex&show_icons=true&locale=en&layout=compact&theme=radical" />
+</p>
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=zer0-hex&theme=dracula">
+</p>
+
 
 <!--
 ✨🔭🌱👯🤔💬📫😄⚡📫💬✉️🕹️💞️🦞🥬🐓👀🚪👋
