@@ -23,7 +23,7 @@ Reach me: Zer0-hex@outlook.com
 </p>
 
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zer0-hex&show_icons=true&locale=en&layout=compact&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zer0-hex&show_icons=true&locale=en&layout=compact&theme=radical" />
 </p>
 
 <p align = "center">
