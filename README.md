@@ -2,12 +2,12 @@
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=C"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Python"/>
-<img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Go"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=Rust"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=Shell"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=Linux"/>
+<img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=C"/>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
+<img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go"/>
+<img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust"/>
+<img src="https://img.shields.io/badge/-Shell-black?style=flat-square&logo=Shell"/>
+<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
