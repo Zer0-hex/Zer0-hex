@@ -27,11 +27,6 @@ Reach me: Zer0-hex@outlook.com
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&theme=radical" >
 </p>
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=zer0-hex&theme=dracula">
-</p>
-
-
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zer0-hex&repo=nnz&theme=buefy" >
