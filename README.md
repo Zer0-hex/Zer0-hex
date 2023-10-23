@@ -7,28 +7,14 @@
   <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust"/>
 </p>
 
-
-<p align="left"> 常用网站
-  <a href="https://github.com/Zer0-hex" title="Github"><img src="https://github.com/fluidicon.png" height="50px"/></a>
-  <a href="https://space.bilibili.com/102541140" title="BiliBili"><img src="https://www.bilibili.com/favicon.ico" height="50px" /></a>
-</p>
-
-```gantt
-gantt
-
-dateFormat YYYY-MM-DD
-
-title 产品计划表
-
-section 初期阶段
-
-明确需求: 2016-03-01, 10d
-
-section 中期阶段
-
-跟进开发: 2016-03-11, 15d
-
-section 后期阶段
-
-走查测试: 2016-03-20, 9d
-```
+## 常用网站
+<div class="frame" style="text-align: center">
+    <button style="margin: 20px;background: radial-gradient(circle, rgba(247,150,192,1) 0%, rgba(118,174,241,1) 100%);" ><a href="https://baidu.com">Github</a></button>
+  <button style="margin: 20px;" ><a href="https://baidu.com"></a>Github</button>
+  <button style="margin: 20px;" ><a href="https://baidu.com"></a>Github</button>
+  <button style="margin: 20px;" ><a href="https://baidu.com"></a>Github</button>
+  <button style="margin: 20px;" ><a href="https://baidu.com"></a>Github</button>
+  <button style="margin: 20px;" ><a href="https://baidu.com"></a>Github</button>
+  <button style="margin: 20px;" ><a href="https://baidu.com"></a>Github</button>
+  <button style="margin: 20px;" ><a href="https://baidu.com"></a>Github</button>
+</div>
