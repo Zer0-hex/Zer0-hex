@@ -7,30 +7,10 @@
   <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust"/>
 </p>
 
-<p align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zer0-hex&show_icons=true&locale=en&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src = "https://github-profile-trophy.vercel.app/?username=zer0-hex&theme=monokai" >
-</p>
-
-<p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=zer0-hex&show_icons=true&theme=aura" >
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0-hex&theme=radical" >
-</p>
-
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zer0-hex&repo=nnz&theme=buefy" >
+    <div style="width:100%; height:350px;border:none;text-align:center">
+		<iframe allowtransparency="yes" frameborder="0" width="300" height="300" src="win10/index.html"/>
+	</div>
 </p>
-
-<!--
-✨🔭🌱👯🤔💬📫😄⚡📫💬✉️🕹️💞️🦞🥬🐓👀🚪👋
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zer0-hex&repo=nnz&theme=buefy" />
-</a>
--->
 
 
