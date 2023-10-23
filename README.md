@@ -9,8 +9,9 @@
 
 
 <p align="left"> 常用网站
-  [![Github](https://github.com/fluidicon.png)](https://github.com/Zer0-hex)
-  <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=C"/>
+  <a href="https://github.com/fluidicon.png](https://github.com/Zer0-hex" target="https://github.com/fluidicon.png" title="Github"><img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=C"/></a>
+
+  
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
   <img src="https://img.shields.io/badge/-Shell-black?style=flat-square&logo=Shell"/>
   <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go"/>
