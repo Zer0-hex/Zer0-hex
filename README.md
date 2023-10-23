@@ -1,8 +1,4 @@
 <img src="https://img.shields.io/badge/Github-Zer0--hex-brightgreen" /> 
-Reach me: Zer0.hex.orz@gmail.com
-
-<h2 align="center"><img src="https://media1.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=790b7611b0f16531e93d5ab444808353d95ca93a6a0f647d&rid=giphy.gif&ct=g" width="50"></h2>
-
 <p align="center">
 <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=C"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
