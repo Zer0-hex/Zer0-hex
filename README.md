@@ -9,7 +9,7 @@
 
 
 <p align="left"> 常用网站
-  <img src="https://img.shields.io/badge/Github-Zer0--hex-brightgreen" aref="www.baidu.com" /> 
+  [![Github](https://github.com/fluidicon.png)](https://github.com/Zer0-hex)
   <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=C"/>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
   <img src="https://img.shields.io/badge/-Shell-black?style=flat-square&logo=Shell"/>
