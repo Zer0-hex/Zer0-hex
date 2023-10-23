@@ -9,7 +9,7 @@
 
 
 <p align="left"> 常用网站
-  <a href="https://github.com/fluidicon.png](https://github.com/Zer0-hex" target="https://github.com/fluidicon.png" title="Github"><img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=C"/></a>
+  <a href="https://github.com/Zer0-hex" title="Github"><img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=C"/></a>
 
   
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
