@@ -7,17 +7,7 @@
   <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust"/>
 </p>
 
-<!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>CodePen - Pure CSS Windows 10 Desktop</title>
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.11/css/all.css" integrity="sha384-p2jx59pefphTFIpeqCcISO9MdVfIm4pNnsL08A6v5vaQc4owkQqxMV8kg4Yvhaw/" crossorigin="anonymous"><link rel="stylesheet" href="./win10/style.css">
-
-</head>
 <body>
-<!-- partial:index.partial.html -->
-<!-- Taskbar -->
 <div class="taskbar">
     <div class="icons">
         <div class="icons-left">
@@ -66,72 +56,7 @@
             <a href="#"><img src="https://raw.githubusercontent.com/gcazin/pure-css-windows-10-desktop/master/icons/word.png" alt=""><span>Recycle bin</span></a>
         </div>
     </div>
-
-    <!-- Speakers -->
-    <div id="sound-modal">
-        <div class="sound-text">
-            <span>Speakers</span>
-        </div>
-        <div class="sound-progress">
-            <i class="fas fa-volume-up"></i>
-            <div class="bar-sound"></div>
-            <div class="bar-sound-drag"></div>
-            <span class="data-value">50%</span>
-        </div>
-    </div>
-
-    <!-- Wifi -->
-    <div id="wifi-modal">
-        <div class="list-networks">
-            <div class="networks">
-                <div class="icons-wifi">
-                    <i class="fas fa-wifi"></i>
-                </div>
-                <div class="text-wifi">
-                    <span class="name-wifi">Wifi</span>
-                    <span class="type-wifi">Connected, securised</span>
-                    <span class="propriety">Propriety</span>
-                    <button>Disconnect</button>
-                </div>
-            </div>
-            <div class="networks">
-                <div class="icons-wifi">
-                    <i class="fas fa-wifi"></i>
-                </div>
-                <span class="name-wifi">Wifi</span>
-                <span class="type-wifi">Open</span>
-            </div>
-            <div class="networks">
-                <div class="icons-wifi">
-                    <i class="fas fa-wifi"></i>
-                </div>
-                <span class="name-wifi">Wifi</span>
-                <span class="type-wifi">Open</span>
-            </div>
-            <div class="options-wifi">
-                <div class="options-wifi-text">
-                    <span>Options internet & security</span>
-                    <span>Modify options, for a better connection</span>
-                </div>
-                <div class="options-bloc">
-                    <div class="bloc-options">
-                        <i class="fas fa-wifi"></i>
-                        <span>Wifi</span>
-                    </div>
-                    <div class="bloc-options">
-                        <i class="fas fa-plane"></i>
-                        <span>Plane mode</span>
-                    </div>
-                    <div class="bloc-options">
-                        <i class="fab fa-bluetooth-b"></i>
-                        <span>Bluetooth</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
-
 <!-- Chrome -->
 <div class="chrome" id="chrome-pop-up">
     <div class="pop-up">
@@ -242,7 +167,6 @@
         </div>
     </div>
 </div>
-<!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js'></script><script  src="./win10/script.js"></script>
 
 </body>
