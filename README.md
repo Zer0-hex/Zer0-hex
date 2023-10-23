@@ -32,10 +32,7 @@
         </div>
     </div>
 </div>
-
-<!-- Desktop -->
 <div class="desktop">
-    <!-- Icons on the desktop -->
     <div class="icons-dekstop">
         <div class="icon-desktop">
             <a href="#chrome-pop-up">
@@ -57,11 +54,8 @@
         </div>
     </div>
 </div>
-<!-- Chrome -->
 <div class="chrome" id="chrome-pop-up">
     <div class="pop-up">
-        <!-- Taskbar chrome-->
-        <!-- Top -->
         <div class="chrome-top">
             <div class="chrome-tabs">
                 <div class="triangle"></div>
@@ -81,7 +75,6 @@
                 <a href="#"><i class="fas fa-times"></i></a>
             </div>
         </div>
-        <!-- Bottom -->
         <div class="chrome-bottom">
             <div class="options-bar">
                 <div class="icons-bar">
@@ -115,14 +108,8 @@
                     </div>
                 </div>
             </div>
-            <!-- Bookmarks -->
-
-        </div>
-        <iframe src="https://codepen.io/gcazin" frameborder="0" width="895px" height="404px"></iframe>
-    </div>
 </div>
 
-<!-- Start menu -->
 <div id="start-menu-modal">
     <div id="user">
         <a class="push" href="#"><i class="fas fa-bars"></i></a>
@@ -168,7 +155,5 @@
     </div>
 </div>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js'></script><script  src="./win10/script.js"></script>
-
 </body>
-</html>
 
