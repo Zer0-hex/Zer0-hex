@@ -7,4 +7,4 @@
   <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go"/> -->
 </p>
 
-
+- 📢 一个论坛: [https://github.com/Zer0-hex/Forum/discussions](https://github.com/Zer0-hex/Forum/discussions)
